@@ -1,0 +1,41 @@
+{
+  "name": "@mpxjs/stylelint-config-recommended-mpx",
+  "version": "1.0.0",
+  "description": "The recommended shareable Mpx config for Stylelint.",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "recommended",
+    "mpx"
+  ],
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "scss"
+  ],
+  "engines": {
+    "node": "^12 || >=14"
+  },
+  "scripts": {},
+  "dependencies": {
+    "stylelint-config-recommended": ">=6.0.0"
+  },
+  "peerDependencies": {
+    "stylelint": ">=14.0.0",
+    "postcss-html": "^1.0.0"
+  },
+  "devDependencies": {
+    "stylelint": "^15.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpx-ecology/stylelint-config-recommended-mpx.git"
+  },
+  "author": "Yosuke Ota (https://github.com/ota-meshi)",
+  "funding": "https://github.com/sponsors/ota-meshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpx-ecology/stylelint-config-recommended-mpx/issues"
+  },
+  "homepage": "https://github.com/mpx-ecology/stylelint-config-recommended-mpx#readme"
+}

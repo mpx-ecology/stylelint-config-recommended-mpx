@@ -2,6 +2,10 @@
   "name": "@mpxjs/stylelint-config-recommended-mpx",
   "version": "1.0.1",
   "description": "The recommended shareable Mpx config for Stylelint.",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
   "keywords": [
     "stylelint",
     "stylelint-config",

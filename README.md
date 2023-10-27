@@ -4,6 +4,6 @@
 // stylelint config
 
 module.exports  = {
-    plugins: ['@mpxjs/stylelint-config-recommended-mpx'],
+    extends: ['@mpxjs/stylelint-config-recommended-mpx'],
 }
 ```
